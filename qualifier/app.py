@@ -110,8 +110,12 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-
-
+    answer = questionary.confirm('Would you like to save your qualifying loans?').ask()
+    if answer== 'Yes':
+        csvpath = 'output_file.csv'
+        save_csv(csvpath, qualifying_loans)
+    else:
+        sys.exit('......')
 def run():
     """The main function for running the script."""
 
