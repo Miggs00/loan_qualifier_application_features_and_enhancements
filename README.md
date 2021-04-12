@@ -9,10 +9,12 @@ In this application we will be working with Python, csv files, fire
 ---
 
 ## How to install 
+In order to run the functions in the application we have to import certain libraries.
+
 
 ---
 
-## The application in use :
+## The application in use 
 
 ---
 
