@@ -19,6 +19,7 @@ In order to run the functions in the application we have to import certain libra
 
 ![loan_app_screenshot_2](https://user-images.githubusercontent.com/80865202/114338804-b2fe8380-9b08-11eb-9404-966d9744f455.JPG)
 
+When opening the csv file you chose to save your qualified loans you'll find the loans you qualify for based on the information you inputed 
 ![loan_app_screenshot_3](https://user-images.githubusercontent.com/80865202/114338831-c01b7280-9b08-11eb-8b88-8b669768ae4b.JPG)
 ---
 
