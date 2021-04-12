@@ -1,6 +1,8 @@
 # loan_qualifier_application_features_and_enhancements
 We will be adding features and enhancements to our loan qualifier application that we worked in the second week of the FinTech Bootcamp.
 
+Inside the qualifier folder you will find the code for this application.
+
 ---
 
 ## Technologies 
@@ -21,6 +23,7 @@ In order to run the functions in the application we have to import certain libra
 
 When opening the csv file you chose to save your qualified loans you'll find the loans you qualify for based on the information you inputed 
 ![loan_app_screenshot_3](https://user-images.githubusercontent.com/80865202/114338831-c01b7280-9b08-11eb-8b88-8b669768ae4b.JPG)
+
 ---
 
 ## Content contributor
