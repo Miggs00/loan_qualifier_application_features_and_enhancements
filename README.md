@@ -10,7 +10,7 @@ In this application we will be working with Python, csv files, fire
 
 ## How to install 
 In order to run the functions in the application we have to import certain libraries.
-
+![loan_app_screenshot_4](https://user-images.githubusercontent.com/80865202/114338646-5602cd80-9b08-11eb-924d-bb73e214856e.JPG)
 
 ---
 
