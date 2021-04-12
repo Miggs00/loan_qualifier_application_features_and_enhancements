@@ -15,7 +15,11 @@ In order to run the functions in the application we have to import certain libra
 ---
 
 ## The application in use 
+![loan_app_screenshot_1](https://user-images.githubusercontent.com/80865202/114338761-9b26ff80-9b08-11eb-9c89-8642810d8c6d.JPG)
 
+![loan_app_screenshot_2](https://user-images.githubusercontent.com/80865202/114338804-b2fe8380-9b08-11eb-9404-966d9744f455.JPG)
+
+![loan_app_screenshot_3](https://user-images.githubusercontent.com/80865202/114338831-c01b7280-9b08-11eb-8b88-8b669768ae4b.JPG)
 ---
 
 ## Content contributor
